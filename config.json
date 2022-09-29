@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "An Nails & Spa",
+        "slug"      : "an-nails-and-spa",
+        "phone"     : "(716) 508-8455",
+        "email"     : "phuongle1313@gmail.com",
+        "address"   : "4211 North Buffalo St, Orchard Park, Suite #11, NY 14127",
+        "time_1"    : "Monday - Friday: 9:00 AM - 6:00 PM",
+        "time_2"    : "Saturday: 9:00 AM - 4:00 PM",
+        "time_3"    : "Sunday: Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/AnNailsSpa.NY",
+        "instagram" :   "https://www.instagram.com/AnNailsSpa.NY/",
+        "google"    :   "https://goo.gl/maps/Ewqjem6mpsrDLv3C9", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc3NjN8YW5uYWlsczQyMTF8TllfMDc5OTF8ZDJjMjczZWVjM2E2NWIyZTY5NTUxMTdjNTIwOWU0ZGU=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11715.666088227854!2d-78.7439664!3d42.7689707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc0e28360fd174ede!2sAn%20Nails%20%26%20Spa!5e0!3m2!1sen!2s!4v1664263418116!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#438288",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#18535b",
+        "secondary"             :   "#18535b",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#71afb5",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#000",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5501/"
+}
